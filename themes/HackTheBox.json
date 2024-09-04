@@ -122,7 +122,7 @@
 		"editorWidget.border": "#1a2332",
 		"editorGutter.addedBackground": "#9fef00",
 		"editorGutter.background": "#141d2b",
-		"editorGutter.commentRangeForeground": "#a4b1cd",
+		"editorGutter.commentRangeForeground": "#7a849a",
 		"editorGutter.deletedBackground": "#ff3e3e",
 		"editorGutter.modifiedBackground": "#004cff",
 		"minimapGutter.addedBackground": "#9fef00",
